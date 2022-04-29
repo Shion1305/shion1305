@@ -48,8 +48,7 @@ Here's some information about me!</p>
     <tr style="background: none;">
         <th style="width: 30%"><a href="https://www.credly.com/badges/da4f3c89-6ecc-44ea-b6da-f9172ee475cd" style="font-size:1rem"><img
                 src="https://images.credly.com/size/680x680/images/3599ecf5-baa4-4b3d-87b4-501a48a125c9/Japan_Silver_Java_SE_Programmer_Badge__1_.png"
-                alt="certificate of Java Programmer, Silver SE 11 from Credly.com"
-                    style="width: 100%"/>Click here to check more details on Credly.com!</a>
+                alt="certificate of Java Programmer, Silver SE 11 from Credly.com" width="200" height="200"/><br>Click here to check more details on Credly.com!</a>
         </th>
         <th style="font-size: 4rem;width: 30%">920</th>
         <th style="font-size: 3rem;width: 30%">Certified</th>
