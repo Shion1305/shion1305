@@ -1,7 +1,6 @@
 ﻿<img src="profile.png" width="300" align="right" alt="Profile Image">
 <div style="background: #172b42; padding: 30px; border-radius: 60px; border: solid white 5px; color:white;">
-<p><img alt="Profile view counter" src="https://komarev.com/ghpvc/?username=shion1305&style=flat-square"/><a href="http://twitter.com/shion2021_">
-    <img height="20" src="https://img.shields.io/twitter/follow/shion2021_?label=Twitter&logo=twitter&style=flat" alt="Twitter Label"/></a></p>
+<p><img alt="Profile view counter" src="https://komarev.com/ghpvc/?username=shion1305&style=flat-square"/></p>
 <h1 style="color: #dbbc1f; margin: 0; text-decoration: underline;font-size: 3rem"> Hi👋 I'm Shion!</h1>
 <p style="font-size: 1.2rem">Thanks for your visit🌈 Nice to see you🤗<br>
 I'm <u>Shion Ichikawa</u>, from Yokohama, Japan 🇯🇵🗾<br>
