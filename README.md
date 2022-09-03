@@ -1,4 +1,4 @@
-﻿![Profile Image](profile.png)
+﻿<img src="profile.png" width="300" align="right" alt="Profile Image">
 
 ![Profile view counter](https://komarev.com/ghpvc/?username=shion1305&style=flat-square)
 
