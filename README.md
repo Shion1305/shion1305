@@ -22,11 +22,12 @@ Here's some information about me👀
 ### 🔠 Programming Languages I've worked with
 
 ![Java](https://img.shields.io/badge/-Java-F89820?style=flat-square&logo=Java&logoColor=white)
-![html5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-323330?style=flat-square&logo=javascript&logoColor=#f0db4f)
 ![Python](https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-0574fc?style=flat-square&logo=c&logoColor=white) etc.
+![C](https://img.shields.io/badge/-C-0574fc?style=flat-square&logo=c&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00add8?style=flat-square&logo=go&logoColor=white)
+![html5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white) etc.
 
 ### 🪄 Frameworks and Platforms I've worked with
 
@@ -40,6 +41,7 @@ Here's some information about me👀
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-32de84?style=flat-square&logo=androidstudio&logoColor=white)
 ![IDEA Intellij](https://img.shields.io/badge/-Intellij_IDEA-3b3b3b?style=flat-square&logo=intellijidea&logoColor=white)
 ![Webstorm](https://img.shields.io/badge/-Webstorm-3b3b3b?style=flat-square&logo=webstorm&logoColor=white)
+![GoLand](https://img.shields.io/badge/-GoLand-3b3b3b?style=flat-square&logo=goland&logoColor=white)
 ![Pycharm](https://img.shields.io/badge/-Pycharm-3b3b3b?style=flat-square&logo=pycharm&logoColor=white)
 ![CLion](https://img.shields.io/badge/-CLion-3b3b3b?style=flat-square&logo=clion&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-0078d7?style=flat-square&logo=visualstudiocode&logoColor=white) etc.
