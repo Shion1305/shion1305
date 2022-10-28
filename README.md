@@ -55,15 +55,15 @@ Here's some information about me👀
 
 <table style="width: 100%;table-layout: fixed; text-align: center; color:white;">
     <tr style="font-size: 2rem; background: none;">
-        <th>Oracle Certified Java Programmer<br>Silver SE 11</th>
+        <th>Oracle Certified Java Programmer<br>Gold SE 11</th>
         <th>TOEIC</th>
         <th>Amateur Third-Class Radio<br>Operator License (アマチュア無線技士3級)</th>
         <th>Applied Information Technology Engineer Examination (応用情報技術者試験)</th>
     </tr>
     <tr style="background: none;">
-        <th style="width: 20%"><a href="https://www.credly.com/badges/da4f3c89-6ecc-44ea-b6da-f9172ee475cd" style="font-size:1rem"><img
-                src="https://images.credly.com/size/680x680/images/3599ecf5-baa4-4b3d-87b4-501a48a125c9/Japan_Silver_Java_SE_Programmer_Badge__1_.png"
-                alt="certificate of Java Programmer, Silver SE 11 from Credly.com" width="200" height="200"/><br>Click here to check more details on Credly.com!</a>
+        <th style="width: 20%"><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=3713F34F572B68CE1034FF593C7AD3C46AC464B054745D254B539C755AC8795B" style="font-size:1rem"><img
+                src="https://brm-workforce.oracle.com/pdf/certview/images/GLDSE11JPN.png"
+                alt="certificate of Java Programmer, Gold SE 11 from Credly.com" width="200" height="200"/><br>Click here to check more details on Oracle's Website!</a>
         </th>
         <th style="font-size: 4rem;width: 20%">920</th>
         <th style="font-size: 3rem;width: 20%">Certified</th>
