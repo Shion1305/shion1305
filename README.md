@@ -62,7 +62,7 @@ Here's some information about me👀
     </tr>
     <tr style="background: none;">
         <th style="width: 20%"><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=3713F34F572B68CE1034FF593C7AD3C46AC464B054745D254B539C755AC8795B" style="font-size:1rem"><img
-                src="https://brm-workforce.oracle.com/pdf/certview/images/GLDSE11JPN.png"
+                src="./oracle_gold_11.png"
                 alt="certificate of Java Programmer, Gold SE 11 from Credly.com" width="200" height="200"/><br>Click here to check more details on Oracle's Website!</a>
         </th>
         <th style="font-size: 4rem;width: 20%">920</th>
