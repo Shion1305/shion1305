@@ -11,7 +11,7 @@ I'm <u>Shion Ichikawa</u>, from Yokohama, Japan 🇯🇵🗾
 Here's some information about me👀
 
 ## ✨My Bio
-🎂	20 years old!
+🎂	21 years old!
 
 🎓 A sophomore student at Yokohama National University
 
