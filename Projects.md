@@ -10,7 +10,13 @@
   Frontend(Nuxt3)
   https://github.com/shion1305/ynufes-mypage-frontend
 
-## Vue3 / JS
+## Vue3 / Nuxt3 / JS / TS
+
+### 23清陵祭
+
+- (大) 23清陵祭HP(開発中)
+  https://github.com/YNUFes-tech/ynufes-seiryo23
+  Website: https://seiryo.ynu-fes.yokohama/
 
 ### 22常盤祭
 
@@ -43,6 +49,14 @@
 - (中) 22常盤祭企画団体データバリデーション・加工ツール(個人開発)
   https://github.com/shion1305/ynufesEventDataValidator
 
+# Lumos(プログラミングサークル)
+
+## Nuxt3
+
+- (中) Lumos メンバー情報管理ツール (メンバーのDiscordとLINEアカウントを紐づけるサイト)
+  https://github.com/shion1305/lumos-profile-management
+  Website: https://lumos-profile.shion.pro/
+
 # 個人開発
 
 ## Java
@@ -67,10 +81,18 @@
 
 ## C++
 
-- OpenGL
+- コンピュータグラフィックスの最終課題として。
 https://github.com/shion1305/GitHubContributionByOpenGL
 
 ## C
 
-- https://github.com/shion1305/2022_YNUB2_Programming_Exercises_I
-- https://github.com/shion1305/2022_YNUB2_Algorithms_and_Data_Structures
+- プログラミング演習Ⅰ 提出課題
+  https://github.com/shion1305/2022_YNUB2_Programming_Exercises_I
+- アルゴリズムとデータ構造 提出課題
+  https://github.com/shion1305/2022_YNUB2_Algorithms_and_Data_Structures
+
+## Nuxt3
+
+- 
+  プロジェクトラーニング オセロ（チーム開発）
+  https://github.com/shion1305/reversi-nuxt

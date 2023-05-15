@@ -17,7 +17,7 @@ Here's some information about me👀
 
 👨🏻‍💻 Majoring in Information Technology.
 
-🧪 A member of Sirakawa Lab. (as ROUTE Project)
+🧪 A member of Yoshioka Lab. (as ROUTE Project)
 
 ### 🔠 Programming Languages I've worked with
 
