@@ -36,16 +36,6 @@ Here's some information about me👀
 ![Oracle Cloud](https://img.shields.io/badge/-Oracle_Cloud-de0a02?style=flat-square&logo=oracle&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=#41B883) etc.
 
-### 🛠️ Development Tools I've used
-
-![Android Studio](https://img.shields.io/badge/-Android_Studio-32de84?style=flat-square&logo=androidstudio&logoColor=white)
-![IDEA Intellij](https://img.shields.io/badge/-Intellij_IDEA-3b3b3b?style=flat-square&logo=intellijidea&logoColor=white)
-![Webstorm](https://img.shields.io/badge/-Webstorm-3b3b3b?style=flat-square&logo=webstorm&logoColor=white)
-![GoLand](https://img.shields.io/badge/-GoLand-3b3b3b?style=flat-square&logo=goland&logoColor=white)
-![Pycharm](https://img.shields.io/badge/-Pycharm-3b3b3b?style=flat-square&logo=pycharm&logoColor=white)
-![CLion](https://img.shields.io/badge/-CLion-3b3b3b?style=flat-square&logo=clion&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-0078d7?style=flat-square&logo=visualstudiocode&logoColor=white) etc.
-
 ## 📽️ My Projects
 [Check my project list from here!](./Projects.md)
 
@@ -62,6 +52,7 @@ Here's some information about me👀
         <th>TOEIC</th>
         <th>Amateur Third-Class Radio<br>Operator License (アマチュア無線技士3級)</th>
         <th>Applied Information Technology Engineer Examination (応用情報技術者試験)</th>
+        <th>Certificate for Handling Poisonous Substances and Deleterious Substances (毒物劇物取扱者試験)</th>
     </tr>
     <tr style="background: none;">
         <th style="width: 20%"><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=3713F34F572B68CE1034FF593C7AD3C46AC464B054745D254B539C755AC8795B" style="font-size:1rem"><img
@@ -71,5 +62,7 @@ Here's some information about me👀
         <th style="font-size: 4rem;width: 20%">920</th>
         <th style="font-size: 3rem;width: 20%">Certified</th>
         <th style="font-size: 3rem;width: 20%">Pass</th>
+        <th style="font-size: 3rem;width: 20%">Pass</th>
     </tr>
 </table>
+
