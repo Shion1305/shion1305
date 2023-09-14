@@ -41,7 +41,7 @@ Here's some information about me👀
 
 ## 📊 Some Statistics..
 
-![shion1305's language stat](https://github-readme-stats.vercel.app/api/top-langs/?username=shion1305&hide=jupyter%20notebook&layout=compact&langs_count=10)
+![shion1305's language stat](https://github-readme-stats.vercel.app/api/top-langs/?username=shion1305&hide=jupyter%20notebook&layout=compact&langs_count=20)
 
 ## 🏅Certificates & Scores
 
