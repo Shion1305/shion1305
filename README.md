@@ -1,6 +1,6 @@
 ﻿<img src="profile.png" width="300" align="right" alt="Profile Image">
 
-![Profile view counter](https://komarev.com/ghpvc/?username=shion1305&style=flat-square)
+![Profile view counter](https://komarev.com/ghpvc/?username=shion1305&style=for-the-badge)
 
 # Hi👋 I'm Shion!
 
@@ -11,30 +11,44 @@ I'm <u>Shion Ichikawa</u>, from Yokohama, Japan 🇯🇵🗾
 Here's some information about me👀
 
 ## ✨My Bio
-🎂	21 years old!
+🎂 22 years old!
 
 🎓 A sophomore student at Yokohama National University
 
 👨🏻‍💻 Majoring in Information Technology.
 
-🧪 A member of Yoshioka Lab. (as ROUTE Project)
+🧪 A member of Yoshioka Lab.
 
 ### 🔠 Programming Languages I've worked with
 
-![Go](https://img.shields.io/badge/-Go-00add8?style=flat-square&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-F89820?style=flat-square&logo=Java&logoColor=white)
-![Javascript](https://img.shields.io/badge/-Javascript-323330?style=flat-square&logo=javascript&logoColor=#f0db4f)
-![Python](https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-0574fc?style=flat-square&logo=c&logoColor=white)
-![html5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white) etc.
+![Go](https://img.shields.io/badge/-Go-00add8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
+![Typescript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue%20%2F%20Nuxt-35495E?style=for-the-badge&logo=vue.js&logoColor=#41B883) 
+![Python](https://img.shields.io/badge/-Python-306998?style=for-the-badge&logo=python&logoColor=white)
+![C/C++](https://img.shields.io/badge/-C%20%2F%20C%2B%2B-0574fc?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+etc.
 
-### 🪄 Frameworks and Platforms I've worked with
+### 🪄 Tools with Experiences
 
-![Apache Tomcat](https://img.shields.io/badge/-Apache_Tomcat-FF2427?style=flat-square&logo=apachetomcat&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/-Oracle_Cloud-de0a02?style=flat-square&logo=oracle&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=#41B883) etc.
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+etc.
+
+
+
+## ☁️💻 Clouds with experiences
+![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ## 📽️ My Projects
 [Check my project list from here!](./Projects.md)
