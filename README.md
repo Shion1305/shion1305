@@ -77,3 +77,7 @@ etc.
 - **Certificate for Handling Poisonous Substances and Deleterious Substances (毒物劇物取扱者試験)**
   - Status: Passed (合格)
 
+  
+- **Registered Information Security Specialist, Certified by the Japanese Goverment (情報処理安全確保支援士)**
+  - Status: Passed (合格)
+
