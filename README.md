@@ -1,4 +1,4 @@
-﻿<img src="profile.png" width="300" align="right" alt="Profile Image">
+﻿<img src="ShionProfile2024.webp" width="300" align="right" alt="Profile Image">
 
 ![Profile view counter](https://komarev.com/ghpvc/?username=shion1305&style=for-the-badge)
 
