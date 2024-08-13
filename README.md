@@ -62,6 +62,8 @@ etc.
 
 ### IT Field
 
+- **Professional Cloud Architect, Google Cloud**
+<br>[<img src="google_cloud_professional_cloud_architect_badge.webp" width="120"/>View Details from Here!!](https://www.credly.com/badges/812158e7-6b4c-4be9-8a96-fb2363edc16a/public_url)
 - **Registered Information Security Specialist, Certified by the Japanese Government (情報処理安全確保支援士)**
 - Applied Information Technology Engineer Examination (応用情報技術者試験)
 - Oracle Certified Java Programmer, Gold SE 11
