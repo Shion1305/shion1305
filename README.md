@@ -11,6 +11,7 @@ I'm <u>Shion Ichikawa</u>, from Yokohama, Japan 🇯🇵🗾
 Here's some information about me👀
 
 ## ✨My Bio
+
 🎂 22 years old!
 
 🎓 First-year Master's Student at Yokohama National University
@@ -24,7 +25,7 @@ Here's some information about me👀
 ![Go](https://img.shields.io/badge/-Go-00add8?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Typescript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue%20%2F%20Nuxt-35495E?style=for-the-badge&logo=vue.js&logoColor=#41B883) 
+![Vue.js](https://img.shields.io/badge/-Vue%20%2F%20Nuxt-35495E?style=for-the-badge&logo=vue.js&logoColor=#41B883)
 ![Python](https://img.shields.io/badge/-Python-306998?style=for-the-badge&logo=python&logoColor=white)
 ![C/C++](https://img.shields.io/badge/-C%20%2F%20C%2B%2B-0574fc?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
@@ -43,14 +44,14 @@ etc.
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 etc.
 
-
-
 ## ☁️💻 Clouds with experiences
+
 ![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ## 📽️ My Projects
+
 [Check my project list from here!](./Projects.md)
 
 ## 📊 Some Statistics..
@@ -59,25 +60,17 @@ etc.
 
 ## 🏅Certificates & Scores
 
-- **Oracle Certified Java Programmer, Gold SE 11**
-  [Click here to check more details on Oracle's Website!](https://catalog-education.oracle.com/pls/certview/sharebadge?id=3713F34F572B68CE1034FF593C7AD3C46AC464B054745D254B539C755AC8795B)
-  
-- **TOEIC**
-  - Score: 920
-  
-- **Amateur Third-Class Radio Operator License (アマチュア無線技士3級)**
-  - Status: Certified (認定)
-  
-- **Applied Information Technology Engineer Examination (応用情報技術者試験)**
-  - Status: Passed (合格)
-  
-- **Hazardous Materials Engineer's Licenses (危険物取扱者試験)**
-  - Status: Passed for B1, B4 (乙1,4類合格) 
-  
-- **Certificate for Handling Poisonous Substances and Deleterious Substances (毒物劇物取扱者試験)**
-  - Status: Passed (合格)
+### IT Field
 
-  
 - **Registered Information Security Specialist, Certified by the Japanese Government (情報処理安全確保支援士)**
-  - Status: Passed (合格)
+- Applied Information Technology Engineer Examination (応用情報技術者試験)
+- Oracle Certified Java Programmer, Gold SE 11
+<br>[<img src="oracle_gold_11.png" width="120"/>View Details from Here!!](https://catalog-education.oracle.com/pls/certview/sharebadge?id=3713F34F572B68CE1034FF593C7AD3C46AC464B054745D254B539C755AC8795B)
+
+### Others
+
+- **TOEIC:** 920
+- **Amateur Third-Class Radio Operator License (アマチュア無線技士3級)**
+- **Hazardous Materials Engineer's Licenses (危険物取扱者試験):** Passed for B1, B4 (乙1,4類合格)
+- **Certificate for Handling Poisonous Substances and Deleterious Substances (毒物劇物取扱者試験)**
 
