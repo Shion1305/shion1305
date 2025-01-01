@@ -12,7 +12,7 @@ Here's some information about me👀
 
 ## ✨My Bio
 
-🎂 22 years old!
+🎂 23 years old!
 
 🎓 First-year Master's Student at Yokohama National University
 
