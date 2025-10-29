@@ -58,6 +58,8 @@ etc.
 
 ![shion1305's language stat](https://github-readme-stats.vercel.app/api/top-langs/?username=shion1305&hide=jupyter%20notebook&layout=compact&langs_count=20)
 
+![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shion1305&utcOffset=+9)
+
 ## 🏅Certificates & Scores
 
 ### IT Field
