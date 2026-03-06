@@ -111,14 +111,12 @@ jobs:
           EOF
           )
 
-          PR_NUMBER=$(gh pr create \
+          gh pr create \
             --title "🎂 Happy ${NEW_AGE}th Birthday, Shion!" \
             --body "$PR_BODY" \
             --base main \
-            --head "$BRANCH" \
-            --json number \
-            --jq '.number')
+            --head "$BRANCH"
 
           sleep 1
 
-          gh pr merge "$PR_NUMBER" --squash --delete-branch
+          gh pr merge "$BRANCH" --squash --delete-branch
