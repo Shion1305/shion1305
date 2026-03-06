@@ -14,7 +14,7 @@ Here's some information about me👀
 
 🎂 24 years old!
 
-🎓 First-year Master's Student at Yokohama National University
+🎓 Second-year Master's Student at Yokohama National University
 
 👨🏻‍💻 Majoring in Information Technology.
 
