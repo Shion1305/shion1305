@@ -1,6 +1,6 @@
 ﻿<img src="ShionProfile2024.webp" width="300" align="right" alt="Profile Image">
 
-![Profile view counter](https://komarev.com/ghpvc/?username=shion1305&style=for-the-badge)
+![Profile view counter](https://komarev.com/ghpvc/?username=Shion1305&style=for-the-badge)
 
 # Hi👋 I'm Shion!
 
@@ -56,7 +56,7 @@ etc.
 
 ## 📊 Some Statistics..
 
-![shion1305's language stat](https://github-readme-stats.k.shion1305.com/api/top-langs/?username=shion1305&hide=jupyter%20notebook&layout=compact&langs_count=20)
+![Shion1305's language stat](https://github-readme-stats.k.shion1305.com/api/top-langs/?username=Shion1305&hide=jupyter%20notebook&layout=compact&langs_count=20)
 
 ![Productive Time](http://github-profile-summary-cards.k.shion1305.com/api/cards/productive-time?username=Shion1305&utcOffset=+9)
 
