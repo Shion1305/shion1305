@@ -58,7 +58,7 @@ etc.
 
 ![Shion1305's language stat](https://github-readme-stats.k.shion1305.com/api/top-langs/?username=Shion1305&hide=jupyter%20notebook&layout=compact&langs_count=20)
 
-![Productive Time](http://github-profile-summary-cards.k.shion1305.com/api/cards/productive-time?username=Shion1305&utcOffset=+9)
+![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shion1305&utcOffset=+9)
 
 ## 🏅Certificates & Scores
 
