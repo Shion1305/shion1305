@@ -56,7 +56,7 @@ etc.
 
 ## 📊 Some Statistics..
 
-![Shion1305's language stat](https://github-readme-stats.k.shion1305.com/api/top-langs/?username=Shion1305&hide=jupyter%20notebook&layout=compact&langs_count=20)
+![Shion1305's language stat](https://github-readme-stats.shion.dev/api/top-langs/?username=Shion1305&hide=jupyter%20notebook&layout=compact&langs_count=20)
 
 ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shion1305&utcOffset=+9)
 
